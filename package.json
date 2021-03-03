@@ -15,7 +15,7 @@
     "@zefman/gridsome-source-instagram": "^0.1.2",
     "gridsome": "^0.7.9",
     "gridsome-source-google-sheets": "^0.3.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "sharp": "^0.22.1",
     "vue": "^2.6.10",
